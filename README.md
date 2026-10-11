@@ -1,4 +1,4 @@
-# Fine-tuning with YOLO 
+# Transfer-learning with YOLO 
 
 The YOLO11n network was used for this study project.
 
